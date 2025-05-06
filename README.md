@@ -1,7 +1,7 @@
 # Abschlussprojekt rstatsZH
 
 **Datenquelle: (Titel und Link anpassen)** [Daten Titel einfügen](https://www.zh.ch)  
-**Code (Link anpassen)**: [Quarto Datei](https://github.com/rstatszh-k009/projekt-rainbow-train/blob/master/docs/index.qmd)
+**Code (Link anpassen)**: [Quarto Datei](https://github.com/rstatszh-k010/projekt-rainbow-train/blob/master/docs/index.qmd)
 
 ## Projektbeschreibung
 
